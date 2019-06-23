@@ -6,5 +6,6 @@ undergone surgery for breast cancer.
 The dataset is taken from kaggle
 https://www.kaggle.com/gilsousa/habermans-survival-data-set
 
-I have done exploratory data analysis to understand the data set and the key observations are written in the ipython notebook
+I have done exploratory data analysis to understand the data set and the key observations are written in the ipython notebook.
+
 I have used KNN Classification to classify the status of the patient given the age and number of nodes.
